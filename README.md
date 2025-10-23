@@ -1,6 +1,6 @@
 # ⚔️ Leonidas Magnus Murphy
 
-**Junior DevSecOps Engineer | Founder of [FurySec]**  
+**Junior DevSecOps Engineer | Founder of FurySec**  
 Bridging the gap between code and defense — automating security across pipelines, clouds, and infrastructures.  
 
 ---
